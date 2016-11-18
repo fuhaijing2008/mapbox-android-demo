@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
   private ExampleAdapter adapter;
   private int currentCategory = R.id.nav_basics;
   private RecyclerView recyclerView;
-
+//
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
