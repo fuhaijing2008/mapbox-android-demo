@@ -23,6 +23,7 @@ public class MainActivity extends WearableActivity implements ExampleAdapter.Ite
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
   //sssdddddd
+   // dddddd
     wearableRecyclerView = (WearableRecyclerView) findViewById(R.id.recycler_launcher_view);
     wearableRecyclerView.setHasFixedSize(true);
 
